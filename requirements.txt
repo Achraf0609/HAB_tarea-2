@@ -1,0 +1,6 @@
+# Librerías esenciales para la Tarea 2: Network Propagation
+pandas
+networkx
+numpy
+tqdm
+matplotlib
